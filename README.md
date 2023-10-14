@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amychisholm03
-- 👀 I’m interested in bioinformatics and application and game development.
-- 🌱 I’m currently studying Computer Science with a minor in Mathematics and Biology.
+- 👀 I’m interested in bioinformatics, machine learning, and game development.
+- 🌱 I’m currently studying Computer Science with a minor in Mathematics.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
