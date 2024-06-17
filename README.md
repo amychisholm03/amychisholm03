@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amychisholm03
+- 👋 Hi, I’m Amy!
 - 👀 I’m interested in bioinformatics, machine learning, and game development.
 - 🌱 I’m currently studying Computer Science with a minor in Mathematics.
 - 💞️ I’m looking to collaborate on ...
