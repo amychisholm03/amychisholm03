@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amy!
-- 💼 I am a software engineer on New Relic's [open-source APM agent for Node.js](https://github.com/newrelic/node-newrelic).
-- 🎓 I have a B.S. in Computer Science with a Mathematics minor from WSU.
-- 🌱 I’m interested in bioinformatics, machine learning, and game development.
+- 💼 I am a software engineer on New Relic's [Node.js APM agent](https://github.com/newrelic/node-newrelic).
+- 🎓 I have a B.S. in Computer Science with a Mathematics minor from Washington State University.
+- 🌱 I’m interested in bioinformatics, fintech, machine learning, and game development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amy-chisholm/)
 
 <!---
